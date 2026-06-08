@@ -1,1 +1,2 @@
 # FaroPlay
+Descargá la APK
